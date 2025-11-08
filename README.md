@@ -68,8 +68,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/) &bull; [Troubleshooting Guide](./TROUBLESHOOTING.md)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [Code of Conduct](./CODE_OF_CONDUCT.md) &bull; [Contributing Guidelines](./CONTRIBUTING.md) &bull; [Profile Template](./PROFILE.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
